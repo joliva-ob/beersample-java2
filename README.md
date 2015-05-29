@@ -30,8 +30,7 @@ You can find the previous material on the __oldtutorial__ branch, see it*
 ## Building and running
 To install a couchbase server with the beers bucket, its connection to elasticsearch by auto-replication and finally to configure a kibana dashboard in order to monitor the changes on live as follows:
 
-[kibana-snapshot]: kibana-snapshot-beer.png  "Kibana snapshoot"
- 
+![kibana exmample dashboard](https://github.com/joliva-ob/beersample-java2/blob/master/kibana-snapshot-beer.png?raw=true) 
 
 - http://es.slideshare.net/Couchbase/using-elasticsearch-and-couchbase-together-to-build-large-scale-applications
 - https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-4-on-ubuntu-14-04
